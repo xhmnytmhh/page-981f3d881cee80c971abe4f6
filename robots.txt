@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.doedjfi.cn/sitemap.xml
